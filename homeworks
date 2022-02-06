@@ -18,3 +18,13 @@ OUTER JOIN. How do your results compare?
 4. Write and answer at least one question of your own
 choosing that joins information from at least three of
 the tables in the flights database.
+
+
+Part 2. Comparing Performance in Tableau
+Your task is to use Tableau to compare flight performance within a category for 2013. For example, you could show
+average monthly departure delay across the three New York airports. You may use this example, but you’re strongly
+encouraged to come up with your own example that you might find more interesting.
+
+Your deliverables should be posted in GitHub, with a link to your GitHub repository in your assignment submission.
+1. The SQL script used to pull data into a .CSV file.
+2. The Tableau workbook (or better, a link to your Tableau Public workbook)
